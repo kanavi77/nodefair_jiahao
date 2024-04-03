@@ -1,0 +1,41 @@
+.footer-0-2-66 {
+    display: flex;
+
+    align-items: center;
+    border-radius: 0px 0px 8px 8px;
+    justify-content: space-between;
+    background-color: rgb(249, 250, 251);
+}
+.btn-0-2-89 {
+    gap: 4px;
+    border: 1px solid #5E2CA5;
+    cursor: pointer;
+    display: flex;
+    padding: 4px 8px;
+    transition: box-shadow 0.2s ease;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: #ffffff;
+}
+.icon-0-2-90 {
+    width: 16px;
+    height: 16px;
+}
+.text-0-2-91 {
+    font-size: 12px;
+    background: linear-gradient(94deg, #5E2CA5 0.16%, #CCB330 115.04%);
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    line-height: 150%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.icon-0-2-94 {
+    width: 16px;
+    height: 16px;
+    transition: 0.2s ease-in-out;
+}
+

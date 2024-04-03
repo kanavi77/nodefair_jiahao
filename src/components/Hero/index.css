@@ -1,0 +1,21 @@
+
+.hero-background {
+    background-color: #10b981;
+    padding: 2rem 0;
+}
+
+.hero-container {
+    max-width: 1128px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.hero-title {
+    font-size: 1.875rem;
+    font-weight: 700;
+    color: white;
+}
+
+.hero-text {
+    color: white;
+}
